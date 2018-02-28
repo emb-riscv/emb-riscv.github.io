@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# The Embedded RISC-V web site
 
-You can use the [editor on GitHub](https://github.com/emb-riscv/emb-riscv.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This repository stores the actual, live, Embedded RISC-V project web.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## URL
 
-### Markdown
+Thanks to the Travis magic, commits to this Git are automatically reflected at [http://emb-riscv.github.io](http://emb-riscv.github.io).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## GitHub Pages
 
-```markdown
-Syntax highlighted code block
+As all GitHub Pages webs, this is a fully static site.
 
-# Header 1
-## Header 2
-### Header 3
+## Jekyll
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/emb-riscv/emb-riscv.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This is a Jekyll generated site, but since it uses plug-ins, it cannot be automatically processed by GitHub Pages, and requires the build to be performed off-line.

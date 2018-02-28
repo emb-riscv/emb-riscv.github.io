@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Embedded RISC-V</title>
+    <description>A complementary RISC-V specification intended for bare metal embedded applications</description>
+    <link>http://emb-riscv.github.io/</link>
+    <atom:link href="http://emb-riscv.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 28 Feb 2018 22:41:59 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Feb 2018 22:41:59 +0000</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>The Embedded RISC-V new web site</title>
+        <description>&lt;p&gt;With the preliminary specs of the &lt;strong&gt;RISC-V Microcontroller Profile&lt;/strong&gt; already available, it was time for the project to get a new web site.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 28 Feb 2018 21:03:00 +0000</pubDate>
+        <link>http://emb-riscv.github.io/blog/2018/03/01/web-new-look/</link>
+        <guid isPermaLink="true">http://emb-riscv.github.io/blog/2018/03/01/web-new-look/</guid>
+        
+        
+        <category>news</category>
+        
+        <category>web</category>
+        
+      </item>
+    
+  </channel>
+</rss>
